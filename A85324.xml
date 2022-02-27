@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle in the love of God to Friends, with a little chiefly to their tender children. : To which is added a few lines to such that may be farther grown in the truth.</title>
+            <author>Fisher, Abigail.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85324</idno>
+            <idno type="STC">Wing F984A</idno>
+            <idno type="STC">ESTC R177065</idno>
+            <idno type="EEBO-CITATION">45789312</idno>
+            <idno type="OCLC">ocm 45789312</idno>
+            <idno type="VID">172621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172621)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle in the love of God to Friends, with a little chiefly to their tender children. : To which is added a few lines to such that may be farther grown in the truth.</title>
+                  <author>Fisher, Abigail.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Soule ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A.F. [i.e. Abigail Fisher].</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172621:1" rendition="simple:additions"/>
+            <p>AN EPISTLE IN THE LOVE of GOD TO FRIENDS, With a Little Chiefly to their Tender CHILDREN. To which is added a few Lines to ſuch that may be farther grown IN THE TRUTH.</p>
+            <q>
+               <p>The Lord gave the Word; great was the Company of thoſe that Publiſhed it.</p>
+               <bibl>Pſal. 68. 11.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and ſold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-Church-ſtreet,</hi> 1696.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172621:2"/>
+            <pb facs="tcp:172621:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>ACcording to the Gentle and Friend<g ref="char:EOLhyphen"/>ly Dealings of the Lord to my Soul, whoſe Love I feel hath a Conſtraining Vertue in it; therefore, as he hath ſet before all Men Good and Evil, my Deſires are, That all may make the bet<g ref="char:EOLhyphen"/>ter Choice; and as there is
+<pb facs="tcp:172621:3"/> Diverſity of Gifts and O<g ref="char:EOLhyphen"/>peration by one and the ſame Spirit: Likewiſe, I do believe, there is a ſer<g ref="char:EOLhyphen"/>vice for all the Gifts of God, as they are improved to the Honour of the Gi<g ref="char:EOLhyphen"/>ver, who is God over all in his unchangeable Power, bleſſed for ever.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172621:3"/>
+            <head>AN EPISTLE In the Love of <hi>GOD,</hi> to FRIENDS, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN that True and Univerſal Love which God hath begotten in me, this is with me to ſend amongſt you, feeling the Spring of Life to be opened from an Inward ſence of the Word of God's Immortal, Divine, and Quickening Power; by which Power and Word, all things were made and created in the Beginning; by which, and taking heed thereto, the Lord hath made many of you Living Witneſſes of that ſaying, and it is fulfilling in this our Day. <hi>Behold,</hi> ſaith the Lord,
+<pb n="2" facs="tcp:172621:4"/> 
+               <hi>I Create a new Heaven and a new Earth, wherein dwells Righteouſneſs;</hi> for which the Lord is only, and alone Worthy of all Praiſe, and to him be it given, from all you who are made living Partakers of this his Everlaſting Kind<g ref="char:EOLhyphen"/>neſs. And Friends, we have all good cauſe to wait for the Lord's Teaching, who Teacheth his People to Profit, as he hath done many that are gone be<g ref="char:EOLhyphen"/>fore, in thoſe things that belong to their everlaſting Well-being, through believing in Chriſt Jeſus, who is the Wiſdom of God, and the Power of God, by which many know, as ſure as ever it was ſpoken, that Faith is the Gift of God, begotten through the Divine Influences of his Bleſſed Spirit; a meaſure of which is given to every Man to profit withal, and there is not another Way or Name given under Heaven, by which Loſt Man can be ſaved and brought back again out of the Fall, to God his Ma<g ref="char:EOLhyphen"/>ker and Creator, but by the Name and Power of Jeſus: You know, dear Friends, who have felt his Reſtoring Arm to be at work in you, by which
+<pb n="3" facs="tcp:172621:4"/> you can teſtifie it is that alone which brings Salvation; and therefore this is no new thing to you, who alſo know God's Arm is not ſhortened, neither is his Word or Power leſſened; but through the ſame ſaving Word of Power, you with me, and I with you, may admire the Virtue that is through it manifeſt in this our Day, by which the Blind Eye hath been opened, the Deaf Ear unſtopp'd, the Lame not only to walk, but leap as an Hart, through the ſafe Conducting Power that is in it: and therefore, Friends, let us all go Hand in Hand together, in this the Good Old Way, which is alſo livingly renew'd in you that walk in it day after day; in the ſence of which let our Spirits bleſs the Lord together, and all go forward towards the Lord's Holy Mountain, for you know Holineſs becomes his Houſe for ever, you to whom the Goſ<g ref="char:EOLhyphen"/>pel Sun hath ſo clearly ſhined, which will yet more and more, by which many will yet ſee the Glory that is in it, and flock to the ariſing of it, for the Lord hath not left himſelf with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:172621:5"/> Witneſſes, having brought many to a right Underſtanding of the Bleſ<g ref="char:EOLhyphen"/>ſed way to the Kingdom of Heaven, which many are yet ſeeking, which is Chriſt Jeſus, who gave himſelf a Ranſom for Mankind, that he might redeem them from all Iniquity; and that is the Univerſal Love of God for all to Receive, who hath ſent his Son to bleſs us, in turning every Man from the Evil of their ways; for many we know have been turned to God, and made partakers of that great Bleſ<g ref="char:EOLhyphen"/>ſing, and I would to God that there were many more in this our Nation brought out of the Fall of the firſt <hi>Adam,</hi> through believing in Chriſt Jeſus the ſecond <hi>Adam,</hi> the Lord from Heaven, who is a quickening Spi<g ref="char:EOLhyphen"/>rit, who ſaid, <hi>I am the Reſurrection and the Life, he that believes in me, though he were dead, yet ſhall he live;</hi> and bleſſed be the Lord, Dear Friends, he hath made you living Witneſſes of many of thoſe Bleſſed Sayings Re<g ref="char:EOLhyphen"/>corded in the Scriptures of Truth, by the Inſpiration of the ſame Holy Spi<g ref="char:EOLhyphen"/>rit that gave them forth; and I know
+<pb n="5" facs="tcp:172621:5"/> it is your deſires with mine, that all who have believed in the Spiritual Appearance of Chriſt, may ſo wait upon him, as to know the end of his coming in them, that thereby they may come to know the only true God and Jeſus Chriſt; whom to know, is Life Eternal; which Life Men cannot enjoy, while they are dead in Treſpaſſes and Sin, whatever they may talk of, read or hear of God and Chriſt, or the Scriptures, which they call their Rule: But how few walk according to the Directions thereof, which directs them to him who ſaves his People from their Sins; You alſo know who are the ſaved of the Lord, who is of Purer Eyes than to behold Iniquity with Pleaſure; therefore, I think it great pity, that any that come amongſt us, ſhould give or take liberty to ſuch Looſneſs and Evils that others were Strangers to, before they knew the precious Truth, as it is now made manifeſt. Therefore, to ſuch this Word of Counſel is in my Heart, that they may now conſider, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Lord is calling all Men every
+<pb n="6" facs="tcp:172621:6"/> where to Repentance; and that it is alſo Cauſe of Grief to all thoſe tender Hearts, who receive the Truth in Love, and for the Purity of it, and love the Truth, becauſe of the true Edification that is in it; and it is you, my Friends, I know, that feel the Love of God reaching in you, to encourage others to love him and that which is good; and embrace the Te<g ref="char:EOLhyphen"/>ſtimony of Truth in their own Hearts, although ſome in our Day have turn<g ref="char:EOLhyphen"/>ed their backs upon the Truth, and embrace thoſe things which once they were led out of by it; and others, through an evil ſurmiſing, and pre<g ref="char:EOLhyphen"/>judicial Spirit, put a ſlight eſteem and value upon it: But bleſſed be the Lord, I am throughly ſatisfied there are ma<g ref="char:EOLhyphen"/>ny that retain their firſt love to it, and abide in that Charity which becomes all that have the true Knowledge of it; and you, my Friends, feel the Sweetneſs and Comfort of the Truth: And you, I know, cannot but love all that truly love the appearance of Chriſt Jeſus, although his Viſage is more marr'd than any Man's, in and
+<pb n="7" facs="tcp:172621:6"/> amongſt too too many: But you, Friends, who have ſeen him, as he is the expreſs Image of his Father's Subſtance, to you he is moſt Lovely; and there<g ref="char:EOLhyphen"/>fore, feeling the Comforts of God's Holy Spirit with me, I am willing to ſend theſe Lines amongſt you, that ſo together, we may be made Living Partakers of the Renowned Mercies of our God, who doth not forget to be gracious, to his Children and Peo<g ref="char:EOLhyphen"/>ple, who wait and think upon his Name, whoſe Name is above every Name, to which every Knee muſt bow, and confeſs to the Name of Jeſus, who is <hi>Emanuel,</hi> God with us; and by that meaſure of his Bleſſed Spirit given to us, he is in us, by which meaſure, many have, and all may know a Profiting towards God, and thoſe things that belong to their Ever<g ref="char:EOLhyphen"/>laſting Peace which according to the Apoſtles Ehortation, let us all en<g ref="char:EOLhyphen"/>deavour to keep with all Men. But Dear Friends, let there be a movi<g ref="char:EOLhyphen"/>ance and particular concern for it and the preſervation of it, in and amongſt all the Called and Gathered by the
+<pb n="8" facs="tcp:172621:7"/> Lord, to the Teſtimony of his Spiri<g ref="char:EOLhyphen"/>tual Appearance in us; and therefore, Dear Friends, in the Love of God, I beſeech you all dwell, that we may be a People preſerved from all thoſe hurtful things, wrong and unruly Spirits, that we ſee take ſo much place in ſome, but bleſſed be the Lord, there is an Eye open that ſees the Foundation of God ſtands ſure for ever, and the Lord knows who are his People, and the Sheep of his Pa<g ref="char:EOLhyphen"/>ſture; them he hath and will feed, and they ſhall drink of the Streams of <hi>Shilo's</hi> Brooks that run ſoftly, and will refreſh all the truly thirſty Souls, for them the Lord hath and will fill; and it is for your ſakes, dear Friends, that the Lord opens the Sluces of his Love, that you may all drink of the Streams of Living Water, and be re<g ref="char:EOLhyphen"/>vived this day in him, and comforted in one another; for he will fill your Hearts with the Treaſure that is Hea<g ref="char:EOLhyphen"/>venly, and never fades away, nor wears; and as you all walk in the Truth, and continue in that Love, which was begotten by the Truth,
+<pb n="9" facs="tcp:172621:7"/> in which Love I know you all can do no leſs, than put a right eſteem and value upon the continued Goodneſs and Mercies of the Lord, in which Love of God, none can hurt, wrong, or evilly entreat one another; and this Love will bring and keep all things in good order amongſt the Called, Faithful and Choſen People of the Lord, in this preſent Age and Day: Therefore, dear Friends, it is my hearty deſire to the Lord, that all may feel this Love of God, to draw their Hearts more and more to love him, and that Grace and Truth that comes by Jeſus Chriſt, that ſo all may draw water out of the Well of Salvation, and drink abundantly of the River of God's Pleaſure, which proceeds from under the Throne of our God, and the Lamb for ever.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:172621:8"/>
+               <head>A few Lines Chiefly to the Ten<g ref="char:EOLhyphen"/>der Children of <hi>FRIENDS<g ref="char:punc">▪</g>
+                  </hi>
+               </head>
+               <p>TEnder Friends, There is a little with me in the Love of God to you, ſome of which may be better qualified, and more ready to receive that which is Good, than others are: But Tender Friends, for want of a a true Regard and Conſideration of the Love of God, ſome rather give way to gratifie a vain Mind, which is ready and apt to be taken with Pride, and the vain Glory of this fa<g ref="char:EOLhyphen"/>ding World, which doth greatly E<g ref="char:EOLhyphen"/>clipſe that Good in your firſt Nature, that otherwiſe would appear more Beautiful, and it doth alſo hinder the Good Seed that is ſown in your Hearts from taking Root downward, by which it ſhould bring forth Fruit up<g ref="char:EOLhyphen"/>ward to the Praiſe of the Lord, who is the Good Husbandman; and there<g ref="char:EOLhyphen"/>fore tender Friends all, conſider the Love of God that is ſhed abroad in many Hearts, and yet runs towards
+<pb n="11" facs="tcp:172621:8"/> you, who are the Younger Genera<g ref="char:EOLhyphen"/>tion, for that end that you may all have a true Regard to the Lord, and to your Tender Parents, whoſe Ten<g ref="char:EOLhyphen"/>der Love and Care may be over you for good; for I have many times thought it great pity, that any Chil<g ref="char:EOLhyphen"/>dren ſhould evilly treat their Parents for their Tender Love and Care to<g ref="char:EOLhyphen"/>wards them, but ſince it is ſo, as we have ſometimes ſeen, Parents may the better receive every good Caution, and in the Authority of Truth, keep Children in Subjection, and according to the Apoſtles Exhortation, Chil<g ref="char:EOLhyphen"/>dren will have cauſe to take it well, they are learned when they are young to obey their Parents in the Lord, for this, ſaith he, is right; and there<g ref="char:EOLhyphen"/>fore, Tender Children, incline your Hearts to love the Lord, his Way and Truth, and obey your Parents, that live therein; for although it hath happened ill with ſome through their Diſobedience, yet there is good cauſe to hope well for many others of you, who may be a ſucceeding Ge<g ref="char:EOLhyphen"/>neration of the Faithful, many of
+<pb n="12" facs="tcp:172621:9"/> which are gathered to their everlaſt<g ref="char:EOLhyphen"/>ing reſt; and hoping well for many, we cannot but deſire well for all our Children, that they may be Wiſe, and learn the Fear of the Lord, which will be a Fountain of Life to preſerve them from the Snares of Death, and keep them from thoſe many ſorts of Evils, and hurtful things, which o<g ref="char:EOLhyphen"/>therwiſe may poſſibly bring ſuch an Evil Day upon them, as to diſhonour God, grieve their Tender Parents, and diſappoint themſelves of true Happineſs here and hereafter. There<g ref="char:EOLhyphen"/>fore it is again with me to ſay, Hear and fear the Great God, for there is need of renewing this Exhortation a<g ref="char:EOLhyphen"/>mongſt ſome Children and young Peo<g ref="char:EOLhyphen"/>ple that come amongſt us: And a<g ref="char:EOLhyphen"/>gain, The fear of the Lord was ſaid to be the beginning of true Wiſdom; and I know many, for your encou<g ref="char:EOLhyphen"/>ragement, can confirm the Teſtimo<g ref="char:EOLhyphen"/>ny, that to depart from Evil, will give, or bring you to a good Under<g ref="char:EOLhyphen"/>ſtanding what will Become, Adorn, or Accompliſh you, as Men and Wo<g ref="char:EOLhyphen"/>men fearing God: And truly, Friends,
+<pb n="13" facs="tcp:172621:9"/> all other will ſtand you in little or no ſtead, as you come to love and em<g ref="char:EOLhyphen"/>brace the Plain and Modeſt way of Truth, and dwell therein. And a<g ref="char:EOLhyphen"/>gain, let me tell you, I know ſome were Educated in many things com<g ref="char:EOLhyphen"/>mendable amongſt other Sober Peo<g ref="char:EOLhyphen"/>ple; yet when it pleaſed the Lord to open their Eyes to behold the Light of this glorious day that is ſprung from on high, and hath viſited us, to give the Light of the Knowledge of God in the face of his Son Chriſt Jeſus, we then ſaw that many of thoſe things were not conſiſtent with the Truth, as it is now made manifeſt; there<g ref="char:EOLhyphen"/>fore I know ſome were not only wil<g ref="char:EOLhyphen"/>ling to caſt off, forſake, and deny, but deſirous to be ſtript of all, that they might be Cloathed with the Heavenly Robe of Righteouſneſs, and wear thoſe Garments that they ſo often heard recommended by the Servants of the Lord, which you may all wear, as you take heed to the Sanctifying Word of Life in your own Hearts, which the Apoſtle re<g ref="char:EOLhyphen"/>commends as that moſt ſure Word of Prophecy, <hi>which,</hi> ſays he, <hi>You will all do
+<pb n="14" facs="tcp:172621:10"/> well to take heed unto, as unto a Light that ſhines in a dark place, till the day dawn, and Day-Star ariſe in your Hearts,</hi> which bleſſed be the Lord, many in our day have known, whoſe deſires are, that you may alſo come to be<g ref="char:EOLhyphen"/>hold the Glory of the Son of Righte<g ref="char:EOLhyphen"/>ouſneſs to ſhine in and through you, that thereby others may be invited to come and taſte and ſee how good the Lord is; and therefore Dear Chil<g ref="char:EOLhyphen"/>dren, all haſten from off the Borders of Rebellion, and be faithful to God, that you may be Partakers of his everlaſting Bleſſing, and learn Sub<g ref="char:EOLhyphen"/>miſſion with humble and due re<g ref="char:EOLhyphen"/>ſpects to God, and your tender Pa<g ref="char:EOLhyphen"/>rents, in which mind you will all be ready to return Thankſgiving to the Lord and them for his Love, their Care, and wholſome Advice to you, for your true and everlaſting well-being.</p>
+               <lg>
+                  <l>Then you the Golden Age may ſee,</l>
+                  <l>As in the Truth you grow;</l>
+                  <l>And in the Love and Fear of God,</l>
+                  <l>His Secrets you may know.</l>
+                  <pb n="15" facs="tcp:172621:10"/>
+                  <l>Therefore, dear Children, ſeek the Lord,</l>
+                  <l>And love his Holy Truth;</l>
+                  <l>Be Meek, be Sober, and be Grave,</l>
+                  <l>This will become the Youth.</l>
+                  <l>And then the Lord will Riches give,</l>
+                  <l>Durable you ſhall ſee;</l>
+                  <l>Heavenly Treaſure from above</l>
+                  <l>To you will opened be.</l>
+                  <l>As you do prize the chiefeſt good,</l>
+                  <l>And from all bad refrain;</l>
+                  <l>And ſhun all evil to do good,</l>
+                  <l>God's Favour you'll obtain.</l>
+                  <l>In order unto which ſeek God,</l>
+                  <l>With broken Hearts this day,</l>
+                  <l>And love his Light and Truth, and walk</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ndefiled in the way.</l>
+                  <l>That ſo his wrath may not break forth,</l>
+                  <l>But he may ſtay his Hand,</l>
+                  <l>And in the room of Judgments may</l>
+                  <l>Send Bleſſings on our Land.</l>
+                  <l>So in true Love unto you all,</l>
+                  <l>I bid you all farewel;</l>
+                  <l>And recommend you to God's Fear;</l>
+                  <l>Where you and I ſhould dwell.</l>
+                  <l>That we may be preſerved</l>
+                  <l>From all preſumptuous things,</l>
+                  <l>And in true Love to God ſubmit,</l>
+                  <l>On Earth to Heavenly things.</l>
+                  <pb n="16" facs="tcp:172621:11"/>
+                  <l>That all may find the peace,</l>
+                  <l>Which in true Love doth flow;</l>
+                  <l>For God is Love, and no other</l>
+                  <l>Can the Devil overthrow.</l>
+                  <l>And therefore Children all,</l>
+                  <l>Grow in Love and good Will,</l>
+                  <l>That your Age may Excell</l>
+                  <l>God's Royal Law fulfil.</l>
+               </lg>
+               <p>Theſe following Lines are to you, my tender Friends, who may be counted of the Yonger Generation that are al<g ref="char:EOLhyphen"/>ready ſenſible of the Love of God, ma<g ref="char:EOLhyphen"/>nifeſt thro' the appearance of the Son of his Love, the Hope of that Glory which is revealed in you. Dear Friends, the Bowels of true Love yearns towards you with many deſires to the Lord, that you may all be pre<g ref="char:EOLhyphen"/>ſerved near to him, by a daily wait<g ref="char:EOLhyphen"/>ing upon him, that ſo your ſtrength may be more and more renewed in him, for the Enemy of all Righteouſ<g ref="char:EOLhyphen"/>neſs will endeavour by one means or other to draw your Minds from the true and ſafe Center, where you may be preſerved Cloſe and Inward with the Lord, for he hath many ways to
+<pb n="17" facs="tcp:172621:11"/> deceive: Sometimes, he may be en<g ref="char:EOLhyphen"/>deavouring to hurry your Minds, and lead you too faſt; and other times he may be ſeeking to hinder you from walking in the ſtrait and nar<g ref="char:EOLhyphen"/>row way which leads to Life Eternal; therefore, dear Friends, as my expe<g ref="char:EOLhyphen"/>rience in that and other things, let me tell you, there is no ſafety in any ſtate that I have yet ſeen, but as the Watch is kept, diligently waiting upon the Lord, by which you may come more and more to know his Mind and Will, and then all be care<g ref="char:EOLhyphen"/>ful how you perform it, and in the Love of God, all be careful, that you go not from that meaſure of his Spirit given you to profit withal: But all wait more and more to be taught by it, that more advantage by the Grace of God, you may all receive to your Immortal Souls, as you con<g ref="char:EOLhyphen"/>tinue in the ſelf-denying way, in ta<g ref="char:EOLhyphen"/>king up the Croſs to all thoſe things that may preſent, or are of a contrary nature to the plain and moderate way that Truth leads in, for the Lord is the ſame as ever he
+<pb n="18" facs="tcp:172621:12"/> was, and all that come to him, muſt come by the ſame Door of entrance, into the Sheep fold of Eternal Reſt; for there is no other way, but by Chriſt Jeſus, whoſe Appearance is ſtill the ſame as ever, although thro' the Faithful Sufferings of many Faithful Friends, there was gained Outward Liberty; which bleſſed be the Lord, is yet continued amongſt us, by which the way is made more eaſie: Yet my Friends, there is the ſame grand Enemy of Truths Proſperity to encounter withal; but bleſſed be the Lord, Friends, you do know your Weapons are not Carnal, but Spiri<g ref="char:EOLhyphen"/>tual and Mighty through God, and therefore keep on your Spiritual Ar<g ref="char:EOLhyphen"/>mor, that you may be able to quench all the Fiery Darts of the Wicked One, which may be many, as you walk in your Spiritual Travel the ſame way that the Lord hath led and brought many out of Spiritual <hi>Aegypts</hi> Darkneſs, and through the Waters, who hath alſo fed them in the Wil<g ref="char:EOLhyphen"/>derneſs, by whoſe Care and Kind<g ref="char:EOLhyphen"/>neſs, bleſſed be his Name, many have
+<pb n="19" facs="tcp:172621:12"/> been and are, as the good Spy, ready to give Teſtimony of the good Land that flows with Milk and Heavenly Divine Sweetneſs, which is the Spi<g ref="char:EOLhyphen"/>ritual Honey, by which the Spiritual Man is nouriſhed, and good Will daily increaſed, which through the Love of God, will more and more be manifeſted; therefore, Friends, be all incouraged to go on in the Light of the Lord, where you may ſee the Enemy in all his approaching, that you may be ſafely conducted in that way that the Lord would have all his People to walk in, that by walking in Chriſt the way, you that are of the Younger Generation may partake of God's everlaſting Bleſſing, which he promiſed to <hi>Abraham</hi> his Servant, when he ſaid, <hi>In bleſſing I will bleſs thee, and in multiplying I will multiply thy ſeed:</hi> For the fulfilling of which, Dear Friends, let us all wait upon the Lord, that thereby we may re<g ref="char:EOLhyphen"/>ceive Grace for Grace from him; that in the receiving of his Grace and Mer<g ref="char:EOLhyphen"/>cy, our Hearts may be more and more bowed, and Spirits broken,
+<pb n="20" facs="tcp:172621:13"/> that a Sacrifice of Praiſe and Thankſ<g ref="char:EOLhyphen"/>giving may be offered unto him of his own preparing, who is worthy of all Praiſe, Glory and Honour, to whom be it given at this time, hence<g ref="char:EOLhyphen"/>forth, and for ever, ſaith my Soul, your Friend, Siſter, and Fellow Traveller in Spirit for <hi>Sion</hi>'s Proſpe<g ref="char:EOLhyphen"/>rity.</p>
+            </div>
+            <closer>
+               <signed>A. F.</signed>
+            </closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
